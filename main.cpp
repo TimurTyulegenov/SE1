@@ -7,12 +7,14 @@ int main()
 {
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
-    int a, b;
+    int a, b, c;
     cout<<"Введите два целых числа"<<endl;
     cout<<"Число А:";
     cin>>a;
     cout<<"Число B:";
     cin>>b;
+    c=a+b;
+    cout<<"a+b="<<c;
     return 0;
 }
 
