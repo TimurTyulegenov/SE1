@@ -1,3 +1,4 @@
+//Программа являеться учебной
 #include <iostream>
 #include <windows.h>
 
